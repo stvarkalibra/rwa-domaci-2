@@ -1,0 +1,2 @@
+http://localhost:8080/RWA_Domaci2_war_exploded/odabrana-jela?lozinka=admin123
+http://localhost:8080/RWA_Domaci2_war_exploded/izbor-jela
